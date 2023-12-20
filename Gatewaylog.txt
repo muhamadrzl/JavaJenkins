@@ -1,0 +1,18 @@
+[INFO] Sat Jan 31 11:10:53 2004 Log viewed by IP address 192.168.0.135
+[INFO] Sat Jan 31 11:08:27 2004 Above message repeated 1 times
+[INFO] Sat Jan 31 11:07:55 2004 Allowed configuration authentication by IP address 192.168.0.135
+[INFO] Sat Jan 31 10:42:56 2004 Administrator logout
+[INFO] Sat Jan 31 10:37:14 2004 Log viewed by IP address 192.168.0.135
+[INFO] Sat Jan 31 10:34:14 2004 Above message repeated 2 times
+[INFO] Sat Jan 31 10:30:26 2004 Allowed configuration authentication by IP address 192.168.0.135
+[WARN] Sat Jan 31 10:30:19 2004 A network computer (IEIMASTER5530EV) was assigned the IP address of 192.168.0.135.
+[WARN] Sat Jan 31 10:30:16 2004 A network computer (C4CBE14C116F) was assigned the IP address of 192.168.0.135.
+[INFO] Sat Jan 31 10:30:14 2004 Starting DHCP server
+[INFO] Sat Jan 31 10:30:07 2004 LAN interface is up
+[INFO] Sat Jan 31 10:30:07 2004 LAN Ethernet Carrier Detected
+[INFO] Sat Jan 31 10:30:06 2004 Device initialized
+[INFO] Sat Jan 31 10:30:06 2004 Wireless link is up
+[WARN] Sat Jan 31 10:30:05 2004 Wireless schedule init
+[INFO] Sat Jan 31 10:30:05 2004 guest: Unlock AP setup
+[INFO] Sat Jan 31 10:30:05 2004 primary: Unlock AP setup
+[INFO] Sat Jan 31 10:30:05 2004 No Internet access policy is in effect. Unrestricted Internet access allowed to everyone
